@@ -47,16 +47,24 @@ I'm a dedicated and versatile full-stack developer with a passion for creating e
 
 ## GitHub Stats
 
-![Arslaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arslaan027&show_icons=true&theme=radical)
-![Arslaan's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Arslaan027&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arslaan027&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arslaan027&show_icons=true&theme=radical" alt="Arslaan's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arslaan027&theme=radical" alt="Arslaan's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arslaan027&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arslaan027&theme=radical" alt="Profile Details" />
+</p>
 
 ---
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arslaan-ahmad-185a58221/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arslaanactive@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/arslaan-ahmad-185a58221/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:arslaanactive@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
-
