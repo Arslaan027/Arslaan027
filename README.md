@@ -1,4 +1,4 @@
-<center># Hello, I'm Arslaan Ahmad! 👋</center>
+# Hello, I'm Arslaan Ahmad! 👋<
 
 I'm a dedicated and versatile full-stack developer with a passion for creating efficient and user-friendly web applications. I currently work at Engineering and Environmental Solutions.
 
