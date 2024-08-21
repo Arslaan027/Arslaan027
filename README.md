@@ -48,9 +48,9 @@ I'm a dedicated and versatile full-stack developer with a passion for creating e
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arslaan027&show_icons=true&theme=radical" alt="Arslaan's GitHub stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arslaan027&layout=compact&theme=radical" alt="Top Languages" width="100%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arslaan027&theme=radical" alt="Profile Details" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arslaan027&show_icons=true&theme=radical" alt="Arslaan's GitHub stats" width="60%" height="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arslaan027&layout=compact&theme=radical" alt="Top Languages" width="60%" height="40%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arslaan027&theme=radical" alt="Profile Details" width="60%" height="40%" />
 </p>
 
 ---
