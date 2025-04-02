@@ -1,6 +1,6 @@
 # Hello, I'm Arslaan Ahmad! 👋
 
-I'm a dedicated and versatile full-stack developer with a passion for creating efficient and user-friendly web applications. I currently work at Engineering and Environmental Solutions.
+I'm a dedicated and versatile full-stack developer with a passion for creating efficient and user-friendly web applications. I currently work at Engineering and Environmental Solutions and Persuing Masters in Computer Application from Indira Gandhi National Open University.
 
 ---
 
